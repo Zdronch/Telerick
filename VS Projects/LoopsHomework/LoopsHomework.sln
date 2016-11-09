@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1ToN", "NumbersFrom1ToN\NumbersFrom1ToN.csproj", "{1B8F8B7D-486C-4A62-B50E-E69646BE0929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleNumbers", "NotDivisibleNumbers\NotDivisibleNumbers.csproj", "{17D7DF6A-CC88-4C6B-8FDC-64AED2924699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSAOfNNumbers", "MMSAOfNNumbers\MMSAOfNNumbers.csproj", "{00233C1A-1D23-42A9-99C4-48B969DB0019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintADeck", "PrintADeck\PrintADeck.csproj", "{05834F6D-407D-413A-9244-FA8DA9494DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calculate.csproj", "{67E31904-B5AB-4AA9-B512-8828DD0B98E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixOfNumbers", "MatrixOfNumbers\MatrixOfNumbers.csproj", "{CFC35280-DE55-47F1-932C-E44CFF206454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenProduct", "OddAndEvenProduct\OddAndEvenProduct.csproj", "{4C82E04C-E3FA-4A98-A49B-CAF0564BFDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8F8B7D-486C-4A62-B50E-E69646BE0929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8F8B7D-486C-4A62-B50E-E69646BE0929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8F8B7D-486C-4A62-B50E-E69646BE0929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8F8B7D-486C-4A62-B50E-E69646BE0929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D7DF6A-CC88-4C6B-8FDC-64AED2924699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D7DF6A-CC88-4C6B-8FDC-64AED2924699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D7DF6A-CC88-4C6B-8FDC-64AED2924699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D7DF6A-CC88-4C6B-8FDC-64AED2924699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00233C1A-1D23-42A9-99C4-48B969DB0019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00233C1A-1D23-42A9-99C4-48B969DB0019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00233C1A-1D23-42A9-99C4-48B969DB0019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00233C1A-1D23-42A9-99C4-48B969DB0019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05834F6D-407D-413A-9244-FA8DA9494DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05834F6D-407D-413A-9244-FA8DA9494DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05834F6D-407D-413A-9244-FA8DA9494DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05834F6D-407D-413A-9244-FA8DA9494DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E31904-B5AB-4AA9-B512-8828DD0B98E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E31904-B5AB-4AA9-B512-8828DD0B98E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E31904-B5AB-4AA9-B512-8828DD0B98E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E31904-B5AB-4AA9-B512-8828DD0B98E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC35280-DE55-47F1-932C-E44CFF206454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC35280-DE55-47F1-932C-E44CFF206454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC35280-DE55-47F1-932C-E44CFF206454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC35280-DE55-47F1-932C-E44CFF206454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C82E04C-E3FA-4A98-A49B-CAF0564BFDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C82E04C-E3FA-4A98-A49B-CAF0564BFDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C82E04C-E3FA-4A98-A49B-CAF0564BFDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C82E04C-E3FA-4A98-A49B-CAF0564BFDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
